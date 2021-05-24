@@ -1,6 +1,6 @@
 # Oi! Eu sou o Roni! 👋
 
-[![Youtube: loianegroner](https://img.shields.io/badge/-ronibanaszewski-0047ab?style=flat-square&labelColor=red&logo=Youtube&logoColor=white&link=http://youtube.com/ronibanaszewski)](http://youtube.com/ronibanaszewski)
+[![Youtube: ronibanaszewski](https://img.shields.io/badge/-ronibanaszewski-0047ab?style=flat-square&labelColor=red&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCBzU4Z1HvVYYzzuN7u4ZPZA)](https://www.youtube.com/channel/UCBzU4Z1HvVYYzzuN7u4ZPZA)
 [![Twitter Badge](https://img.shields.io/badge/-@ronifabio-0047ab?style=flat-square&labelColor=00ACEE&logo=twitter&logoColor=white&link=https://twitter.com/ronifabio)](https://twitter.com/ronifabio) 
 ![Linkedin Badge](https://img.shields.io/badge/-Roni%20Fabio%20Banaszewski-0047ab?style=flat-square&labelColor=0E76A8&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronifabio/)
 ![Instagram Badge](https://img.shields.io/badge/-@roni.banaszewski-0047ab?style=flat-square&labelColor=993399&logo=Instagram&logoColor=white&link=https://www.instagram.com/roni.banaszewski/)
